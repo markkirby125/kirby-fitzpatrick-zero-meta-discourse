@@ -2,13 +2,31 @@
 
 Strip self-referential conversational chatter and meta-commentary from assistant output.
 
+[![Kirby Fitzpatrick Collection](https://img.shields.io/badge/Kirby_Fitzpatrick-Writers_Collection-blue?style=flat-square&logo=github)](https://github.com/markkirby125/kirby-fitzpatrick-writers-collection)
+[![Kirby Skills Collection](https://img.shields.io/badge/Kirby_Skills-Collection-purple?style=flat-square&logo=github)](https://github.com/markkirby125/kirby-skills-collection)
+
 ---
+
+## Repo Details
+
+* **Repository**: [https://github.com/markkirby125/kirby-fitzpatrick-zero-meta-discourse](https://github.com/markkirby125/kirby-fitzpatrick-zero-meta-discourse)
+* **Parent Collection**: [kirby-fitzpatrick-writers-collection](https://github.com/markkirby125/kirby-fitzpatrick-writers-collection)
+* **Master Directory**: [kirby-skills-collection](https://github.com/markkirby125/kirby-skills-collection)
+* **Category**: Cognitive Load & Tone
+* **Framework Author**: William Fitzpatrick
+* **YouTube Channel**: [William Fitzpatrick | Writer Science](https://www.youtube.com/@WriterScience)
+* **Source Lecture**: "4 Writing Hacks that Readers Love"
+* **Direct Video URL**: https://www.youtube.com/watch?v=_X0UERlwz7Y
+
+---
+
 ## Attribution & Provenance
 
 * **Original Framework Author**: William Fitzpatrick
 * **YouTube Channel**: [William Fitzpatrick | Writer Science](https://www.youtube.com/@WriterScience)
 * **Source Lecture**: "4 Writing Hacks that Readers Love"
 * **Direct Video URL**: https://www.youtube.com/watch?v=_X0UERlwz7Y
+
 ---
 
 ## Overview
