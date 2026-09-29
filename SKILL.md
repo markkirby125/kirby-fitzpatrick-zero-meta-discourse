@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-zero-meta-discourse
-description: "Strip self-referential conversational chatter and meta-commentary from assistant output." Use this when working on fitzpatrick zero meta discourse.
+description: "Strip self-referential conversational chatter and meta-commentary from assistant output. Use this when working on fitzpatrick zero meta discourse."
 category: "Writing & Communication"
 triggers:
   - "zero meta discourse"
